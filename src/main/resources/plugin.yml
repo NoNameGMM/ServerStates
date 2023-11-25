@@ -1,0 +1,9 @@
+name: ServerStates
+version: '${project.version}'
+main: me.nonamegmm.serverinfo.ServerInfo
+api-version: '1.16'
+load: STARTUP
+commands:
+  serverinfo:
+    description: 查看服务器信息
+    aliases: info
