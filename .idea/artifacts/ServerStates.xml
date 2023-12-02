@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ServerStates">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerStates</output-path>
+    <root id="archive" name="ServerStates.jar">
+      <element id="module-output" name="ServerStates" />
+    </root>
+  </artifact>
+</component>

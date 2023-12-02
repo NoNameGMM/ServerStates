@@ -2,4 +2,13 @@ name: ServerStates
 version: '${project.version}'
 main: me.nonamegmm.serverstates.ServerStates
 api-version: '1.16'
-load: STARTUP
+load: POSTWORLD
+author: NoNameGMM
+website: https://github.com/NoNameGMM/ServerStates
+description: 适用于Bukkit,Spigot,Paper端的服务器信息插件
+commands:
+  serverstates:
+    description: 服务器信息
+    aliases:
+      - ss
+      - states
