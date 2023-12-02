@@ -34,6 +34,7 @@ Tps:1.8左右版本输出中文可能乱码 推荐使用中文
 #### help:  
 <img width="427" alt="image" src="https://github.com/NoNameGMM/ServerStates/assets/109721871/77c62952-eef3-4df6-ac9d-4439d3c5895f">  
 
-
+### Bstats
+<a href="https://bstats.org/plugin/bukkit/ServerStates/20377">![https://bstats.org/plugin/bukkit/ServerStates/20377](https://bstats.org/signatures/bukkit/ServerStates.svg)</a>
 
 
